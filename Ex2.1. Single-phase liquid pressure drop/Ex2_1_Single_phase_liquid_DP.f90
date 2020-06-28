@@ -62,7 +62,7 @@
     
     
     
-    !A = sin(tet*Dig_to_rad)
+    !A = sind(tet) ! sin(tet*Dig_to_rad)
     !print*,"sin ch", a
     !pause 
     

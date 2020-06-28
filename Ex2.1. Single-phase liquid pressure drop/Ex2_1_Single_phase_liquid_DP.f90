@@ -4,7 +4,7 @@
 !
 !  PROGRAM: Ex2_1_Single_phase_liquid_DP
 !
-!  PURPOSE:  To Calculate the pressure change in a awater injection Well 
+!  PURPOSE:  To Calculate the pressure change in a a water injection Well 
 !  
 !  By Alibig71     
 !  28th Jun 2020  
